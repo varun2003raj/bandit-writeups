@@ -1,22 +1,20 @@
-# Bandit Wargame Writeups
+# 🔐 OverTheWire Bandit (Level 0–25)
 
-Hi, I'm Varun Raj.
+Completed Bandit Wargame up to Level 25.
 
-This repository contains my learning notes from the OverTheWire Bandit wargame.
-
-## Skills Practiced
-- Linux command line
-- File permissions
-- Searching files
+## 🚀 Skills Gained
+- Linux command line basics
+- File handling & navigation
+- Permissions & access control
 - SSH usage
+- Basic Bash scripting
 
-## Completed Levels
-- Level 0
-- Level 0-1
-- Level 1-2
-- Level 2-3
-- Level 3-4
-- Level 4-5
-- Level 5-6
+## 📈 Progress
+✔ Completed: Level 0 → 25
 
-I will keep updating this repository as I progress through the Bandit levels.
+## 📸 Screenshot
+![WhatsApp Image 2026-03-19 at 22 00 47 (1)](https://github.com/user-attachments/assets/b99f8b2f-43d0-45eb-bcfa-914976ac47cd)
+
+
+## 💡 Note
+This repository is for learning and practice purposes only.
